@@ -11,6 +11,8 @@ ChatterBox is a real-time chat application designed using a scalable, multi-thre
 - UTF-8 encoding to support a wide range of characters
 - Secure TCP connections
 - User-friendly Tkinter GUI
+  ![image](https://github.com/user-attachments/assets/6709eb4c-7288-41d2-8371-66f117152927)
+
 
 ## Installation
 
